@@ -1,0 +1,375 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.52328995644, 55.786990064028 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170321T140245+0100",
+      "endTime" : "20170321T171643+0100",
+      "place" : {
+        "id" : 613413023,
+        "name" : "DTU Bibliotek",
+        "type" : "facebook",
+        "facebookPlaceId" : "196637903749506",
+        "location" : {
+          "lat" : 55.786990064028,
+          "lon" : 12.52328995644
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T140652+0100",
+        "endTime" : "20170321T140705+0100",
+        "duration" : 13.0,
+        "distance" : 10.0,
+        "steps" : 20,
+        "calories" : 1
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T171246+0100",
+        "endTime" : "20170321T171416+0100",
+        "duration" : 90.0,
+        "distance" : 75.0,
+        "steps" : 150,
+        "calories" : 5
+      } ],
+      "lastUpdate" : "20170321T181750Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170321T171643+0100",
+      "endTime" : "20170321T172342+0100",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170321T171643+0100",
+        "endTime" : "20170321T172341+0100",
+        "duration" : 418.0,
+        "distance" : 1438.0,
+        "calories" : 42
+      } ],
+      "lastUpdate" : "20170321T183801Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.507930868509, 55.781602164622 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170321T172342+0100",
+      "endTime" : "20170321T184207+0100",
+      "place" : {
+        "id" : 613550457,
+        "name" : "Lyngby Svømmehal",
+        "type" : "facebook",
+        "facebookPlaceId" : "116300458440077",
+        "location" : {
+          "lat" : 55.781602164622,
+          "lon" : 12.507930868509
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T172345+0100",
+        "endTime" : "20170321T172418+0100",
+        "duration" : 33.0,
+        "distance" : 25.0,
+        "steps" : 50,
+        "calories" : 2
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T184000+0100",
+        "endTime" : "20170321T184031+0100",
+        "duration" : 31.0,
+        "distance" : 31.0,
+        "steps" : 62,
+        "calories" : 2
+      } ],
+      "lastUpdate" : "20170321T182419Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170321T184207+0100",
+      "endTime" : "20170321T184924+0100",
+      "activities" : [ {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170321T184207+0100",
+        "endTime" : "20170321T184924+0100",
+        "duration" : 437.0,
+        "distance" : 1644.0,
+        "calories" : 47
+      } ],
+      "lastUpdate" : "20170321T183802Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.52329, 55.78699 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170321T184924+0100",
+      "endTime" : "20170321T192105+0100",
+      "place" : {
+        "id" : 613413077,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.78699,
+          "lon" : 12.52329
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T185010+0100",
+        "endTime" : "20170321T185030+0100",
+        "duration" : 20.0,
+        "distance" : 15.0,
+        "steps" : 30,
+        "calories" : 1
+      } ],
+      "lastUpdate" : "20170321T194909Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.526896, 55.787481 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170321T192105+0100",
+      "endTime" : "20170321T193117+0100",
+      "place" : {
+        "id" : 613583236,
+        "type" : "unknown",
+        "location" : {
+          "lat" : 55.787481,
+          "lon" : 12.526896
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T192117+0100",
+        "endTime" : "20170321T192310+0100",
+        "duration" : 113.0,
+        "distance" : 85.0,
+        "steps" : 171,
+        "calories" : 5
+      } ],
+      "lastUpdate" : "20170321T194909Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ], [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170321T193117+0100",
+      "endTime" : "20170321T200705+0100",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20170321T193117+0100",
+        "endTime" : "20170321T200017+0100",
+        "duration" : 1740.0,
+        "distance" : 14627.0
+      }, {
+        "activity" : "cycling",
+        "group" : "cycling",
+        "manual" : false,
+        "startTime" : "20170321T200017+0100",
+        "endTime" : "20170321T200705+0100",
+        "duration" : 408.0,
+        "distance" : 1295.0,
+        "calories" : 38
+      } ],
+      "lastUpdate" : "20170321T203658Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.591819795863357, 55.67439017685253 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170321T200706+0100",
+      "endTime" : "20170322T084231+0100",
+      "place" : {
+        "id" : 613598923,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 55.67439017685253,
+          "lon" : 12.591819795863357
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170321T200706+0100",
+        "endTime" : "20170321T200735+0100",
+        "duration" : 29.0,
+        "distance" : 22.0,
+        "steps" : 44,
+        "calories" : 1
+      } ],
+      "lastUpdate" : "20170322T102805Z",
+      "date" : "20170321"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.591819795863357, 55.67439017685253 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170321T200706+0100",
+      "endTime" : "20170322T084231+0100",
+      "place" : {
+        "id" : 613598923,
+        "name" : "Home",
+        "type" : "home",
+        "location" : {
+          "lat" : 55.67439017685253,
+          "lon" : 12.591819795863357
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170322T013748+0100",
+        "endTime" : "20170322T013817+0100",
+        "duration" : 29.0,
+        "distance" : 14.0,
+        "steps" : 20,
+        "calories" : 1
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170322T083847+0100",
+        "endTime" : "20170322T083957+0100",
+        "duration" : 70.0,
+        "distance" : 45.0,
+        "steps" : 90,
+        "calories" : 3
+      } ],
+      "lastUpdate" : "20170322T102805Z",
+      "date" : "20170322"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiLineString",
+      "coordinates" : [ [ ], [ ] ]
+    },
+    "properties" : {
+      "type" : "move",
+      "startTime" : "20170322T084231+0100",
+      "endTime" : "20170322T092951+0100",
+      "activities" : [ {
+        "activity" : "transport",
+        "group" : "transport",
+        "manual" : false,
+        "startTime" : "20170322T084231+0100",
+        "endTime" : "20170322T092123+0100",
+        "duration" : 2332.0,
+        "distance" : 16202.0
+      }, {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170322T092123+0100",
+        "endTime" : "20170322T092951+0100",
+        "duration" : 508.0,
+        "distance" : 614.0,
+        "steps" : 920,
+        "calories" : 39
+      } ],
+      "lastUpdate" : "20170322T102805Z",
+      "date" : "20170322"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.518218531898, 55.783588405954 ]
+    },
+    "properties" : {
+      "type" : "place",
+      "startTime" : "20170322T092952+0100",
+      "endTime" : "20170322T141049+0100",
+      "place" : {
+        "id" : 613861027,
+        "name" : "Dtu 324",
+        "type" : "facebook",
+        "facebookPlaceId" : "560294884003112",
+        "location" : {
+          "lat" : 55.783588405954,
+          "lon" : 12.518218531898
+        }
+      },
+      "activities" : [ {
+        "activity" : "walking",
+        "group" : "walking",
+        "manual" : false,
+        "startTime" : "20170322T123047+0100",
+        "endTime" : "20170322T123357+0100",
+        "duration" : 190.0,
+        "distance" : 214.0,
+        "steps" : 286,
+        "calories" : 13
+      } ],
+      "lastUpdate" : "20170322T131054Z",
+      "date" : "20170322"
+    }
+  } ]
+}
